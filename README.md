@@ -1,3 +1,5 @@
+> 🇬🇪 [ქართული ვერსია](./README_ka.md)
+
 # Homework 5 — Functions
 
 Welcome to your fifth homework! 🎉
