@@ -21,3 +21,4 @@ console.log("myReduce:", myReduce([1, 2, 3, 4], (sum, n) => sum + n, 0));
 console.log("Built-in reduce:", [1, 2, 3, 4].reduce((sum, n) => sum + n, 0));
 
 console.log("myReduce (text):", myReduce(["a", "b", "c"], (text, ch) => text + ch, ""));
+console.log("Built-in reduce (text):", ["a", "b", "c"].reduce((text, ch) => text + ch, ""));
